@@ -4,19 +4,19 @@
     "client": {
       "id": 1,
       "image": "/images/testimonial/client-01.jpg",
-      "fullName": "Martha Maldonado",
-      "designation": "Executive Chairman @ Google"
+      "fullName": "John Doe",
+      "designation": "CEO @ TechCorp"
     },
-    "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit."
+    "description": "TechCorp's partnership with this team has been incredible. Their innovative solutions have truly elevated our business."
   },
   {
     "id": 2,
     "client": {
       "id": 2,
       "image": "/images/testimonial/client-02.jpg",
-      "fullName": "Martha Maldonado",
-      "designation": "Executive Chairman @ Google"
+      "fullName": "Jane Smith",
+      "designation": "Product Manager @ Innovate Inc"
     },
-    "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit."
+    "description": "The professionalism and expertise displayed by the team exceeded our expectations. Highly recommend their services!"
   }
 ]
