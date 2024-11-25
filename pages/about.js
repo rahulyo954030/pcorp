@@ -27,7 +27,7 @@ const About = () => {
                 title: "Discover",
                 subtitle: "our four step process",
                 description:
-                    "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+                    "Dive into research to understand user needs, project goals, and market trends, forming the foundation for an impactful website design.",
                 highlightColor: "extra04-color",
                 image: "/images/process/process-01.jpg",
             },
@@ -36,7 +36,7 @@ const About = () => {
                 title: "Prototype",
                 subtitle: "our four step process",
                 description:
-                    "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+                    "Create wireframes and mockups to visualize the website’s layout, functionality, and user journey, ensuring a seamless experience.",
                 highlightColor: "extra05-color",
                 image: "/images/process/process-02.jpg",
             },
@@ -45,7 +45,7 @@ const About = () => {
                 title: "Test",
                 subtitle: "our four step process",
                 description:
-                    "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+                    "Conduct usability testing to gather feedback, identify pain points, and refine the design for optimal user satisfaction.",
                 highlightColor: "extra06-color",
                 image: "/images/process/process-03.jpg",
             },
@@ -54,7 +54,7 @@ const About = () => {
                 title: "Build",
                 subtitle: "our four step process",
                 description:
-                    "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+                    "Develop the website with clean, responsive, and scalable code, bringing the final design to life while ensuring functionality across devices.",
                 highlightColor: "extra07-color",
                 image: "/images/process/process-04.jpg",
             },
@@ -108,11 +108,7 @@ const About = () => {
                                             </Link>
                                         </h2>
                                         <p className="subtitle-2">
-                                            Donec metus lorem, vulputate at sapien sit amet, auctor
-                                            iaculis lorem. In vel hendrerit nisi. Vestibulum eget
-                                            risus velit. Aliquam tristique libero at dui sodales, et
-                                            placerat orci lobortis. Maecenas ipsum neque, elementum id
-                                            dignissim et, imperdiet vitae mauris.
+                                        We are passionate about creating innovative software solutions that empower individuals and organizations to make a positive impact on the world. By focusing on purpose-driven projects, we aim to deliver technology that drives meaningful change
                                         </p>
                                         <Link href={`/case-study/${slugify(CaseStudyData[0].title)}`}>
                                             <a className="axil-button btn-large btn-transparent">

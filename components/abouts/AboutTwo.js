@@ -37,8 +37,7 @@ const AboutTwo = () => {
                   Why branding <br /> matters?
                 </h2>
                 <p className="subtitle-2">
-                  Ut condimentum enim nec diam convallis mollis. Sed felis quam,
-                  semper dapibus purus sed, rhoncus ullamcorper lacus.
+                Branding creates a strong identity that distinguishes your business, builds trust, and fosters emotional connections with your audience.
                 </p>
               </div>
 
@@ -69,8 +68,7 @@ const AboutTwo = () => {
                     data-bs-parent="#accordion"
                   >
                     <div className="card-body">
-                      Aenean hendrerit laoreet vehicula. Nullam convallis augue
-                      at enim gravida pellentesque.
+                    A well-defined strategy aligns your brand’s vision, mission, and values, ensuring consistency across all touchpoints.
                     </div>
                   </div>
                 </div>
@@ -97,8 +95,7 @@ const AboutTwo = () => {
                     data-bs-parent="#accordion"
                   >
                     <div className="card-body">
-                      Aenean hendrerit laoreet vehicula. Nullam convallis augue
-                      at enim gravida pellentesque.
+                    Compelling design visually communicates your brand’s essence, making a memorable and impactful impression.
                     </div>
                   </div>
                 </div>
@@ -125,8 +122,7 @@ const AboutTwo = () => {
                     data-bs-parent="#accordion"
                   >
                     <div className="card-body">
-                      Aenean hendrerit laoreet vehicula. Nullam convallis augue
-                      at enim gravida pellentesque.
+                      Effective brand development builds recognition, loyalty, and long-term growth through consistent and purposeful actions.
                     </div>
                   </div>
                 </div>
