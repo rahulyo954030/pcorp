@@ -21,7 +21,7 @@ const CounterTwo = () => {
                         <SectionTitle
                             title="What makes us special?"
                             subtitle="experts in field"
-                            description="Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero."
+                            description="What makes us special is our focus on innovation, quality, and tailored solutions. We prioritize creativity and collaboration to deliver exceptional results."
                             color="extra08-color"
                             alignment="left"
                         />

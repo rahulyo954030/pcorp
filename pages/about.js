@@ -29,7 +29,7 @@ const About = () => {
                 description:
                     "Dive into research to understand user needs, project goals, and market trends, forming the foundation for an impactful website design.",
                 highlightColor: "extra04-color",
-                image: "/images/process/process-01.jpg",
+                image: "/images/bg/discover.png",
             },
             {
                 id: 2,
@@ -38,7 +38,7 @@ const About = () => {
                 description:
                     "Create wireframes and mockups to visualize the website’s layout, functionality, and user journey, ensuring a seamless experience.",
                 highlightColor: "extra05-color",
-                image: "/images/process/process-02.jpg",
+                image: "/images/bg/prototype.png",
             },
             {
                 id: 3,
@@ -47,7 +47,7 @@ const About = () => {
                 description:
                     "Conduct usability testing to gather feedback, identify pain points, and refine the design for optimal user satisfaction.",
                 highlightColor: "extra06-color",
-                image: "/images/process/process-03.jpg",
+                image: "/images/bg/test.png",
             },
             {
                 id: 4,
@@ -56,7 +56,7 @@ const About = () => {
                 description:
                     "Develop the website with clean, responsive, and scalable code, bringing the final design to life while ensuring functionality across devices.",
                 highlightColor: "extra07-color",
-                image: "/images/process/process-04.jpg",
+                image: "/images/bg/build.png",
             },
         ],
     };
@@ -83,7 +83,7 @@ const About = () => {
                                             width={801}
                                             height={712}
                                             className="image w-100"
-                                            src="/images/featured/featured-image-02.jpg"
+                                            src="/images/bg/building_software.png"
                                             alt="Featured Images"
                                         />
                                     </div>

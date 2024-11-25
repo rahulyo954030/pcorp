@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Madge Alvarez",
-    "image": "/images/team/team-01.jpg",
+    "image": "/images/bg/person_1.png",
     "designation": "CEO",
     "department": ["Management"],
     "socials": [
@@ -20,7 +20,7 @@
   {
     "id": 2,
     "name": "Jared Moreno",
-    "image": "/images/team/team-02.jpg",
+    "image": "/images/bg/person_2.png",
     "designation": "CEO",
     "department": ["Management", "Designer"],
     "socials": [
@@ -38,7 +38,7 @@
   {
     "id": 3,
     "name": "Margaret McKinney",
-    "image": "/images/team/team-03.jpg",
+    "image": "/images/bg/person_3.png",
     "designation": "CEO",
     "department": ["Management", "App Developer"],
     "socials": [
@@ -56,7 +56,7 @@
   {
     "id": 4,
     "name": "Effie Frank",
-    "image": "/images/team/team-04.jpg",
+    "image": "/images/bg/person_4.png",
     "designation": "CEO",
     "department": ["Management", "Frontend"],
     "socials": [
@@ -74,7 +74,7 @@
   {
     "id": 5,
     "name": "Tyler Hardy",
-    "image": "/images/team/team-05.jpg",
+    "image": "/images/bg/person_5.png",
     "designation": "CEO",
     "department": ["Management", "Frontend"],
     "socials": [
@@ -92,7 +92,7 @@
   {
     "id": 6,
     "name": "Effie Arnold",
-    "image": "/images/team/team-06.jpg",
+    "image": "/images/bg/person_6.png",
     "designation": "CEO",
     "department": ["Management", "Designer"],
     "socials": [
