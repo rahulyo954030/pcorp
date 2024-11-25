@@ -3,7 +3,7 @@
     "id": 1,
     "client": {
       "id": 1,
-      "image": "/images/testimonial/test2.png",
+      "image": "/images/testimonial/test1.png",
       "fullName": "John Doe",
       "designation": "CEO @ TechCorp"
     },
