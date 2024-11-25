@@ -101,8 +101,9 @@ const Footer = ({footerSetting = {}}) => {
                                                 <>
                                                     <h2>Get in touch!</h2>
                                                     <p>
-                                                        Fusce varius&sbquo; dolor tempor interdum tristique&sbquo; dui
-                                                        urna <br/> bibendum magna&sbquo; ut ullamcorper purus
+                                                    Feel free to reach out—I’d love to connect and collaborate!
+                                                        {/* Fusce varius&sbquo; dolor tempor interdum tristique&sbquo; dui
+                                                        urna <br/> bibendum magna&sbquo; ut ullamcorper purus */}
                                                     </p>
                                                     <div className="axil-newsletter">
                                                         <form className="newsletter-form" action="#">

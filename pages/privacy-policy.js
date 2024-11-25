@@ -26,23 +26,13 @@ const PrivacyPolicy = () => {
                                         </div>
                                         <h3>GDPR compliance</h3>
                                         <p className="subtitle-2 mb--40">
-                                            Sed nec ex vitae justo molestie maximus. Sed ut
-                                            neque sit amet libero rhoncus tempor. Fusce tempor quam libero&sbquo; varius
-                                            congue magna tempus vitae. Donec a justo nec elit sagittis sagittis eu a
-                                            ante. Vivamus rutrum elit odio. Donec gravida id ligula ut faucibus. Aenean
-                                            convallis ligula orci&sbquo; ut congue nunc sodales ut. In ultrices elit malesuada
-                                            velit ornare&sbquo; eget dictum velit hendrerit. Praesent bibendum blandit lectus&sbquo;
-                                            eu congue neque mollis in. Pellentesque metus diam&sbquo; hendrerit in purus
-                                            fringilla&sbquo; accumsan bibendum sapien. Nunc non facilisis sem.
+                                        We are committed to ensuring your data privacy and security. Our policies and processes align with the General Data Protection Regulation (GDPR) to protect personal data, provide transparency, and uphold your rights as a user.
                                         </p>
 
 
                                         <h3>About Keystroke</h3>
                                         <p className="subtitle-2 mb--40">
-                                            In dapibus&sbquo; nibh sit amet pulvinar convallis&sbquo;
-                                            massa nunc tincidunt nunc&sbquo; a pretium risus nulla ut dui. Ut ut condimentum
-                                            tellus&sbquo; dapibus volutpat est. Integer ullamcorper iaculis blandit.
-                                            Pellentesque id tempus urna. Quisque luctus cursus imperdiet. <a
+                                        Keystroke is dedicated to building innovative solutions that prioritize user experience and security. For queries or assistance, please contact us at hello@keystroke.com.<a
                                             href="#">hello@keystroke.com</a>
                                         </p>
 
@@ -51,22 +41,15 @@ const PrivacyPolicy = () => {
                                             <li>Email is a crucial channel in any marketing.</li>
                                             <li>Curious what to say? How to say it?</li>
                                             <li>Whether you’re kicking off a new campaign.</li>
-                                            <li>Habitasse per feugiat aliquam luctus accumsan curae</li>
+                                            <li>These interactions help us tailor our offerings to your needs</li>
                                         </ul>
 
                                         <h3>Why we collect and use personal data</h3>
                                         <p className="subtitle-2">
-                                            Sed nec ex vitae justo molestie maximus. Sed ut neque
-                                            sit amet libero rhoncus tempor. Fusce tempor quam libero&sbquo; varius congue
-                                            magna tempus vitae. Donec a justo nec elit sagittis sagittis eu a ante.
-                                            Vivamus rutrum elit odio. Donec gravida id ligula ut faucibus. Aenean
-                                            convallis ligula orci&sbquo; ut congue nunc sodales ut. In ultrices elit malesuada
-                                            velit ornare&sbquo; eget dictum velit hendrerit. Praesent bibendum blandit lectus&sbquo;
-                                            eu congue neque mollis in. Pellentesque metus diam&sbquo; hendrerit in purus
-                                            fringilla&sbquo; accumsan bibendum sapien. Nunc non facilisis sem.
+                                        We collect and use personal data to enhance your experience, provide personalized services, and improve our offerings. This data helps us better understand user preferences, ensuring an optimized and secure experience.
                                         </p>
 
-                                        <ul className="mb--40">
+                                        {/* <ul className="mb--40">
                                             <li>Nulla facilisi. Sed pulvinar nec purus eu sollicitudin. Quisque ut
                                                 tempus quam&sbquo; in cursus eros.
                                             </li>
@@ -80,25 +63,16 @@ const PrivacyPolicy = () => {
                                                 Praesent fringilla sagittis ex&sbquo; ac molestie ipsum ullamcorper a.
                                             </li>
                                             <li> Vestibulum nulla tortor&sbquo; aliquam at porta in&sbquo; hendrerit sed nibh.</li>
-                                        </ul>
+                                        </ul> */}
 
                                         <h3>Type of personal data collected</h3>
                                         <p className="subtitle-2 mb--40">
-                                            In ultrices elit malesuada velit ornare&sbquo; eget
-                                            dictum velit hendrerit. Praesent bibendum blandit lectus&sbquo; eu congue neque
-                                            mollis in. Pellentesque metus diam&sbquo; hendrerit in purus fringilla&sbquo; accumsan
-                                            bibendum sapien. Nunc non facilisis sem.
+                                        We collect personal data such as your name, email address, contact details, IP address, and browsing behavior. This data is used solely for improving our services and ensuring your needs are met efficiently.
                                         </p>
 
                                         <h3>Information we collect automatically</h3>
                                         <p className="subtitle-2 mb--40">
-                                            Etiam vel mi vel neque mattis iaculis. Proin
-                                            vitae consequat augue&sbquo; vel porta tellus. Nullam tincidunt ac lorem eu
-                                            lacinia. Praesent ac diam id odio elementum efficitur. Suspendisse sit amet
-                                            urna vitae neque tempor pellentesque. Aenean ut dapibus urna. Pellentesque
-                                            neque nulla&sbquo; interdum vitae rhoncus at&sbquo; pretium id arcu. Etiam sodales
-                                            lectus at convallis vestibulum. Quisque non neque augue. Nullam condimentum
-                                            nulla felis&sbquo; nec suscipit augue congue ac.
+                                        When you visit our website, we automatically collect technical data, such as browser type, operating system, referral URL, and browsing activities. This information helps us analyze website performance and improve functionality.
                                         </p>
 
                                         <h3>The use of cookies and web beacons</h3>
@@ -132,47 +106,28 @@ const PrivacyPolicy = () => {
                                             purposes.
                                         </p>
 
-                                        <p className="subtitle-2 mb--40">
+                                        {/* <p className="subtitle-2 mb--40">
                                             We store personal data for as long as we find
                                             it necessary to fulfill the purpose for which the personal data was
                                             collected&sbquo; while also considering our need to answer your queries or resolve
                                             possible problems. This helps us to comply with legal requirements under
                                             applicable laws&sbquo; to attend to any legal claims/complaints&sbquo; and for
                                             safeguarding purposes.
-                                        </p>
+                                        </p> */}
 
                                         <h3>Your rights to your personal data</h3>
                                         <p className="subtitle-2 mb--40">
-                                            We store personal data for as long as we find
-                                            it necessary to fulfill the purpose for which the personal data was
-                                            collected&sbquo; while also considering our need to answer your queries or resolve
-                                            possible problems. This helps us to comply with legal requirements under
-                                            applicable laws&sbquo; to attend to any legal claims/complaints&sbquo; and for
-                                            safeguarding purposes.
+                                        You have the right to access, correct, delete, or restrict the processing of your personal data. You can also withdraw consent or lodge a complaint with relevant authorities regarding data handling.
                                         </p>
 
                                         <h3>Hotjar’s privacy policy</h3>
                                         <p className="subtitle-2 mb--40">
-                                            Pellentesque vestibulum venenatis iaculis.
-                                            Aliquam viverra sodales ultrices. Quisque sed purus id massa consequat
-                                            consectetur eu vel lorem. Maecenas lectus velit&sbquo; cursus quis orci non&sbquo;
-                                            laoreet hendrerit mi. Nulla vitae ipsum fringilla&sbquo; placerat metus eu&sbquo;
-                                            malesuada velit. Quisque viverra risus ex. Aenean commodo vestibulum
-                                            efficitur. Nullam ligula orci&sbquo; aliquet sed luctus vel&sbquo; luctus vel dui. Sed
-                                            pulvinar&sbquo; ipsum at mattis imperdiet&sbquo; diam augue tempor diam&sbquo; sed porttitor
-                                            odio elit ut ante. In posuere mi at mi pellentesque ornare sit amet gravida
-                                            nisi. Praesent ac blandit odio. Curabitur iaculis ante elit&sbquo; et imperdiet
-                                            leo mollis at.
+                                            We use Hotjar to analyze user interactions on our site, helping us improve functionality and design. Hotjar’s tools comply with privacy laws, ensuring collected data is anonymized and secure. For more details, refer to Hotjar’s privacy policy.
                                         </p>
 
                                         <h3>Changes to this Privacy Policy</h3>
                                         <p className="subtitle-2">
-                                            Integer eu ornare lectus&sbquo; ornare ullamcorper tellus.
-                                            Morbi in urna a justo dignissim luctus. Nam sagittis ante ut lorem feugiat&sbquo;
-                                            sed consectetur ligula lacinia. Vestibulum quis mauris sed lectus pretium
-                                            dictum sed vitae orci. Vestibulum facilisis facilisis mauris non maximus.
-                                            Nam tristique ipsum egestas&sbquo; suscipit orci sit amet&sbquo; rutrum ante. Proin in
-                                            felis pellentesque&sbquo; ullamcorper enim vel&sbquo; molestie ipsum.
+                                        We may update this privacy policy periodically to reflect changes in our practices or legal requirements. Please review this page regularly to stay informed of any modifications.
                                         </p>
                                     </div>
                                 </div>

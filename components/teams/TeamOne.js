@@ -32,9 +32,7 @@ const TeamOne = () => {
                                 <SectionTitle
                                     title="Alone we can do so little; together we can do so much."
                                     subtitle="our team"
-                                    description="Donec metus lorem, vulputate at sapien sit amet, auctor
-                  iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus
-                  velit. Aliquam tristique libero."
+                                    description="Collaboration is the cornerstone of success, enabling us to achieve more as a team than we ever could individually. By working together, we transform ideas into impactful solutions."
                                     color="extra08-color"
                                     alignment="left"
                                 />

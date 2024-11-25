@@ -37,7 +37,7 @@ const ServiceThree = () => {
                         <SectionTitle
                             title="Why should you work with us?"
                             subtitle="our valus"
-                            description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
+                            description="Join a team that thrives on collaboration, innovation, and a shared commitment to success. We offer a dynamic work environment where your skills and contributions will make a real difference in shaping impactful solutions."
                             color="extra08-color"
                             alignment="center"
                         />
