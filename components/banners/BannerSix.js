@@ -9,9 +9,9 @@ const BannerSix = (
         bannerTitleClass = 'page-title mb--20',
         leftColumn = 'col-lg-5 order-2 order-lg-1 mt_md--30 mt_sm--30',
         rightColumn = 'col-lg-7 order-1 order-lg-2',
-        bannerImageOne = '/images/others/keystoke-image-1.png',
+        bannerImageOne = '/images/service/servicehero.png',
         bannerImageTwo = '/images/others/keystoke-image-2.svg',
-        shapeImage = '/images/slider/single-service-02.png',
+        shapeImage = '/images/service/single-service-02.png',
         isServiceDetails = false,
         showPersonImage = true,
     }
