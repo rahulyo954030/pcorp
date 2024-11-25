@@ -219,7 +219,7 @@ const Team = () => {
                                 <SectionTitle
                                     title="Design startup movement"
                                     subtitle="experts in field"
-                                    description="In vel varius turpis, non dictum sem. Aenean in efficitur ipsum, in egestas ipsum. Mauris in mi ac tellus."
+                                    description="Designing a startup movement means building a strong brand and innovative solutions that adapt to market needs. It emphasizes agility, creativity, and scalability."
                                     color="extra08-color"
                                     alignment="center"
                                 />
@@ -231,7 +231,7 @@ const Team = () => {
                             <Image
                                 width={1920}
                                 height={760}
-                                src="/images/bg/video-bg.png"
+                                src="/images/bg/video_thumbnail.png"
                                 alt="Video Bg Images"
                             />
                             <div className="video-button position-to-top">
