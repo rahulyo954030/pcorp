@@ -45,7 +45,7 @@ const Contact = () => {
                                                 </p>
                                                 <p>
                                                     <a className="axil-link" href="tel:1234567890">
-                                                        (123) 456 7890
+                                                        +1 (647) 343-5453
                                                     </a>
                                                 </p>
                                             </div>
@@ -70,9 +70,9 @@ const Contact = () => {
                                                 <p>
                                                     <a
                                                         className="axil-link"
-                                                        href="mailto:example@gmail.com"
+                                                        href="mailto:pragracorp@gmail.com"
                                                     >
-                                                        example@gmail.com
+                                                        pragracorp@gmail.com
                                                     </a>
                                                 </p>
                                             </div>

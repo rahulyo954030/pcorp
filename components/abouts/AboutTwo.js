@@ -14,7 +14,7 @@ const AboutTwo = () => {
                   <span className="text">Or call us now</span>
                   <span>
                     <i className="fal fa-phone-alt"></i>{" "}
-                    <a href="#">(123) 456 7890</a>
+                    <a href="#">+1 (647) 343-5453</a>
                   </span>
                 </div>
 
