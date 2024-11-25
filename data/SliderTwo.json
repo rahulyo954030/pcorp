@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/images/featured/featured-image-01.jpg",
+    "image": "/images/featured/Img-1.png",
     "subtitle": "featured case study",
     "title": "Logo, identity & web design for Uber",
     "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
@@ -19,7 +19,7 @@
   },
   {
     "id": 2,
-    "image": "/images/featured/featured-image-03.jpg",
+    "image": "/images/featured/Img-2.png",
     "subtitle": "featured case study",
     "title": "Logo, identity & web design for Uber",
     "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
@@ -37,7 +37,7 @@
   },
   {
     "id": 3,
-    "image": "/images/featured/featured-image-04.jpg",
+    "image": "/images/featured/Img-3.png",
     "subtitle": "featured case study",
     "title": "Logo, identity & web design for Uber",
     "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",

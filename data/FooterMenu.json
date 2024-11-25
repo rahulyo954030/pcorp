@@ -18,13 +18,10 @@
     {"title":  "Social Media Marketing", "url":  "/services/online-marketing/social-media-marketing"}
   ],
   "resources": [
-    {"title":  "Blog", "url":  "/blog"},
-    {"title":  "Case Studies", "url":  "/case-study"},
     {"title":  "Portfolio", "url":  "/portfolio"}
   ],
   "support": [
     {"title":  "Contact", "url":  "/contact"},
-    {"title":  "Privacy Policy", "url":  "/privacy-policy"},
-    {"title":  "Sitemap", "url":  "#"}
+    {"title":  "Privacy Policy", "url":  "/privacy-policy"}
   ]
 }

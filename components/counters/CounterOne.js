@@ -19,8 +19,7 @@ const CounterOne = () => {
                         <SectionTitle
                             title="Design startup movement"
                             subtitle="experts in field"
-                            description="In vel varius turpis, non dictum sem. Aenean in efficitur ipsum, in egestas ipsum. Mauris in mi ac tellus."
-                            color="extra08-color"
+                            description="Design fuels innovation and growth. A strong design foundation, from creative solutions to user-centered approaches, is key to startup success, helping businesses create impactful experiences that stand out in competitive markets."   color="extra08-color"
                             alignment="center"
                         />
                     </div>

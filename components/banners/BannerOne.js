@@ -15,7 +15,7 @@ const BannerOne = () => {
                   data-aos="aos-fade-in-up"
                   data-aos-duration="1000"
                 >
-                  We build AI & Cloud native Apps
+                  Build World-Class Teams with Pragra Corp
                 </h1>
                 <p
                   className="subtitle-3"
@@ -23,8 +23,8 @@ const BannerOne = () => {
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  We have been buiding stunning cloud native apps using
-                  <br /> AI/Machine Learning.
+                  Hire, develop, and manage top tech professionals 
+                  <br />remotely—seamlessly and tailored to your needs.
                 </p>
                 <Link href="/portfolio">
                   <a
@@ -47,7 +47,7 @@ const BannerOne = () => {
                       <Image
                         width={500}
                         height={630}
-                        src="/images/others/keystoke-image-3.jpg"
+                        src="/images/others/homehero.svg"
                         alt="Keystoke Images"
                       />
                     </div>

@@ -31,7 +31,7 @@ const ServiceOne = () => {
                         <SectionTitle
                             title="Services we can help you with"
                             subtitle="what we can do for you"
-                            description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
+                            description="We specialize in delivering impactful solutions to help you thrive. Our team ensures seamless, efficient, and customized support for your goals."
                             color="extra08-color"
                             alignment="center"
                         />
