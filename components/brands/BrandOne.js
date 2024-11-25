@@ -6,8 +6,8 @@ import Link from "next/link";
 
 const BrandOne = ({
   title = "We’ve built solutions for...",
-  subtitle = "top clients",
-  description = "Nulla facilisi. Nullam in magna id dolor blandit rutrum eget.",
+  subtitle = "Top Clients",
+  description = "Our diverse clientele includes some of the world’s most innovative and forward-thinking brands. We pride ourselves on delivering tailored solutions that meet their unique challenges and drive their success.",
   bgColor = "bg-color-white"
 }) => {
   const [brands, setBrands] = useState([]);

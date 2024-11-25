@@ -3,7 +3,7 @@
     "id": 1,
     "client": {
       "id": 1,
-      "image": "/images/testimonial/client-01.jpg",
+      "image": "/images/testimonial/test2.png",
       "fullName": "John Doe",
       "designation": "CEO @ TechCorp"
     },
@@ -13,7 +13,7 @@
     "id": 2,
     "client": {
       "id": 2,
-      "image": "/images/testimonial/client-02.jpg",
+      "image": "/images/testimonial/test2.png",
       "fullName": "Jane Smith",
       "designation": "Product Manager @ Innovate Inc"
     },

@@ -13,7 +13,7 @@ const TeamOne = () => {
                                 <Image
                                     width={630}
                                     height={514}
-                                    src="/images/team/team-group.png"
+                                    src="/images/team/team.png"
                                     alt="Team Images"
                                 />
                             </div>
@@ -32,9 +32,7 @@ const TeamOne = () => {
                                 <SectionTitle
                                     title="Alone we can do so little; together we can do so much."
                                     subtitle="our team"
-                                    description="Donec metus lorem, vulputate at sapien sit amet, auctor
-                  iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus
-                  velit. Aliquam tristique libero."
+                                    description="Our team is the backbone of our success, a diverse group of talented individuals who bring unique skills, perspectives, and passion to the table. Through collaboration, innovation, and a shared vision, we work together to create impactful solutions that make a difference in the world."
                                     color="extra08-color"
                                     alignment="left"
                                 />

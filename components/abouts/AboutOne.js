@@ -13,7 +13,7 @@ const AboutOne = () => {
                   data-aos="aos-fade-in-up"
                   data-aos-duration="1000"
                 >
-                  about us
+                  About Us
                 </span>
                 <h2
                   className="title"
@@ -21,7 +21,7 @@ const AboutOne = () => {
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  We do design, code <br /> & develop.
+                  Innovating Solutions, Delivering Results
                 </h2>
                 <p
                   className="subtitle-2 mb--50 mb_lg--20 mb_md--20 mb_sm--15"
@@ -29,10 +29,7 @@ const AboutOne = () => {
                   data-aos-duration="1000"
                   data-aos-delay="400"
                 >
-                  Nulla et velit gravida, facilisis quam a, molestie ante.
-                  Mauris placerat suscipit dui, eget maximus tellus blandit a.
-                  Praesent non tellus sed ligula commodo blandit in et mauris.
-                  Quisque efficitur ipsum ut dolor molestie pellentesque.
+                  We specialize in delivering tailored, innovative solutions that help businesses thrive in an ever-changing digital landscape. Whether it's design, development, or strategy, we provide the expertise to bring your vision to life.
                 </p>
                 <p
                   className="subtitle-2"
@@ -40,9 +37,7 @@ const AboutOne = () => {
                   data-aos-duration="1000"
                   data-aos-delay="500"
                 >
-                  Nulla pharetra hendrerit mi quis dapibus. Quisque luctus,
-                  tortor a venenatis fermentum, est lacus feugiat nisl, id
-                  pharetra odio enim eget libero.
+                  Our team is dedicated to excellence, always striving to push the boundaries of what's possible. Through collaboration, creativity, and cutting-edge technology, we deliver exceptional results that drive success for our clients.
                 </p>
               </div>
             </div>
@@ -50,13 +45,13 @@ const AboutOne = () => {
           <div className="col-lg-6 col-xl-5 offset-xl-1 col-md-12 col-12 mt_md--30 mt_sm--30">
             <div className="contact-form-wrapper">
               <div className="axil-contact-form contact-form-style-1">
-                <h3 className="title">Get a free Keystroke quote now</h3>
-                <ContactFormOne/>
+                <h3 className="title">Get a free consultation now</h3>
+                <ContactFormOne />
                 <div className="callto-action-wrapper text-center">
                   <span className="text">Or call us now</span>
                   <span>
                     <i className="fal fa-phone-alt"></i>{" "}
-                    <a href="#">(123) 456 7890</a>
+                    <a href="tel:+16473435453">+1 (647) 343-5453</a>
                   </span>
                 </div>
               </div>
