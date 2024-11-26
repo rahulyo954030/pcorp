@@ -29,7 +29,7 @@ const AboutOne = () => {
                   data-aos-duration="1000"
                   data-aos-delay="400"
                 >
-                  We specialize in delivering tailored, innovative solutions that help businesses thrive in an ever-changing digital landscape. Whether it's design, development, or strategy, we provide the expertise to bring your vision to life.
+                  We specialize in delivering tailored, innovative solutions that help businesses thrive in an ever-changing digital landscape. Whether it&apos;s design, development, or strategy, we provide the expertise to bring your vision to life.
                 </p>
                 <p
                   className="subtitle-2"
@@ -37,7 +37,7 @@ const AboutOne = () => {
                   data-aos-duration="1000"
                   data-aos-delay="500"
                 >
-                  Our team is dedicated to excellence, always striving to push the boundaries of what's possible. Through collaboration, creativity, and cutting-edge technology, we deliver exceptional results that drive success for our clients.
+                  Our team is dedicated to excellence, always striving to push the boundaries of what&apos;s possible. Through collaboration, creativity, and cutting-edge technology, we deliver exceptional results that drive success for our clients.
                 </p>
               </div>
             </div>
