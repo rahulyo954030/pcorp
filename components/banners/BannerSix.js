@@ -10,8 +10,8 @@ const BannerSix = (
         leftColumn = 'col-lg-5 order-2 order-lg-1 mt_md--30 mt_sm--30',
         rightColumn = 'col-lg-7 order-1 order-lg-2',
         bannerImageOne = '/images/service/servicehero.png',
-        bannerImageTwo = '/images/others/keystoke-image-2.svg',
-        shapeImage = '/images/slider/single-service-02.png',
+        bannerImageTwo = '/',
+        shapeImage = '/images/bg/discuss.png',
         isServiceDetails = false,
         showPersonImage = true,
     }
@@ -49,7 +49,7 @@ const BannerSix = (
                                             height={363}
                                             className="paralax-image"
                                             src={bannerImageTwo}
-                                            alt="Keystoke Images"
+                                            // alt="Keystoke Images"
                                         />
                                     </Tilt>
                                 </div>
@@ -84,8 +84,8 @@ const BannerSix = (
                                                 width={270}
                                                 height={321}
                                                 className="image-2 paralax-image"
-                                                src="/images/slider/single-service-01.svg"
-                                                alt="Slider images"
+                                                src="/"
+                                                // alt="Slider images"
                                                 layout="fixed"
                                             />
                                         </Tilt>

@@ -65,8 +65,8 @@ const BannerOne = () => {
                       width={294}
                       height={326}
                       className="paralax-image"
-                      src="/images/others/keystoke-image-4.svg"
-                      alt="Keystoke Images"
+                      src="/"
+                      alt=""
                     />
                   </div>
                   <div className="shape-group">
