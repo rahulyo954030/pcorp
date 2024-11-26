@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Madge Alvarez",
     "image": "/images/bg/person_1.png",
-    "designation": "CEO",
+    "designation": "CEO at PragraCorp",
     "department": ["Management"],
     "socials": [
       { "type": "facebook", "url": "#" },
@@ -15,13 +15,13 @@
       { "type": "dribble", "url": "#" },
       { "type": "behance", "url": "#" }
     ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
+    "introduction": "As the CEO of PragraCorp, Madge Alvarez is dedicated to driving innovation and excellence in all aspects of the business. With a vision to empower clients and employees alike, she leads with integrity and inspires success."
   },
   {
     "id": 2,
     "name": "Jared Moreno",
-    "image": "/images/bg/person_2.png",
-    "designation": "CEO",
+    "image": "/images/bg/person_4.png",
+    "designation": "CTO at PragraCorp",
     "department": ["Management", "Designer"],
     "socials": [
       { "type": "facebook", "url": "#" },
@@ -33,13 +33,13 @@
       { "type": "dribble", "url": "#" },
       { "type": "behance", "url": "#" }
     ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
+    "introduction": "Jared Moreno, the CTO of PragraCorp, spearheads technological advancements to deliver cutting-edge solutions. His expertise in design and strategy bridges the gap between innovation and practicality, ensuring seamless user experiences."
   },
   {
     "id": 3,
     "name": "Margaret McKinney",
     "image": "/images/bg/person_3.png",
-    "designation": "CEO",
+    "designation": "COO at PragraCorp",
     "department": ["Management", "App Developer"],
     "socials": [
       { "type": "facebook", "url": "#" },
@@ -51,13 +51,13 @@
       { "type": "dribble", "url": "#" },
       { "type": "behance", "url": "#" }
     ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
+    "introduction": "Margaret McKinney, as COO, ensures that PragraCorp operates efficiently and effectively. With her extensive experience in app development and management, she drives operational excellence and fosters collaboration across teams."
   },
   {
     "id": 4,
     "name": "Effie Frank",
-    "image": "/images/bg/person_4.png",
-    "designation": "CEO",
+    "image": "/images/bg/person_2.png",
+    "designation": "Manager at PragraCorp",
     "department": ["Management", "Frontend"],
     "socials": [
       { "type": "facebook", "url": "#" },
@@ -69,13 +69,13 @@
       { "type": "dribble", "url": "#" },
       { "type": "behance", "url": "#" }
     ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
+    "introduction": "Effie Frank plays a vital role as a Manager at PragraCorp, combining her management expertise with a strong foundation in front-end development. She ensures that every project meets the highest standards of quality and performance."
   },
   {
     "id": 5,
     "name": "Tyler Hardy",
     "image": "/images/bg/person_5.png",
-    "designation": "CEO",
+    "designation": "Team Leader at PragraCorp",
     "department": ["Management", "Frontend"],
     "socials": [
       { "type": "facebook", "url": "#" },
@@ -87,13 +87,13 @@
       { "type": "dribble", "url": "#" },
       { "type": "behance", "url": "#" }
     ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
+    "introduction": "Tyler Hardy leads his team at PragraCorp with a focus on collaboration and creativity. His expertise in front-end technologies helps deliver visually stunning and user-friendly applications."
   },
   {
     "id": 6,
     "name": "Effie Arnold",
     "image": "/images/bg/person_6.png",
-    "designation": "CEO",
+    "designation": "HR at PragraCorp",
     "department": ["Management", "Designer"],
     "socials": [
       { "type": "facebook", "url": "#" },
@@ -105,6 +105,6 @@
       { "type": "dribble", "url": "#" },
       { "type": "behance", "url": "#" }
     ],
-    "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
+    "introduction": "Effie Arnold, as an HR professional at PragraCorp, focuses on fostering a positive workplace culture. Her background in design brings a unique perspective to team building and employee engagement strategies."
   }
 ]

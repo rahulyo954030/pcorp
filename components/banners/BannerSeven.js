@@ -5,8 +5,8 @@ const BannerSeven = (
     {
         title = "One of the fastest growing agency",
         subtitle = "We design and develop web and mobile applications for our clients worldwide.",
-        thumbnailImageOne = "/images/slider/white-shape.png",
-        thumbnailImageTwo = "/images/slider/banner-about.svg",
+        thumbnailImageOne = "/images/bg/top_aboutus.png",
+        thumbnailImageTwo = "/",
     }
 ) => {
     return (
@@ -37,7 +37,7 @@ const BannerSeven = (
                                         height={395}
                                         className="image-2 paralax-image"
                                         src={thumbnailImageTwo}
-                                        alt="Slider images"
+                                        // alt="Slider images"
                                     />
                                 </Tilt>
                             </div>

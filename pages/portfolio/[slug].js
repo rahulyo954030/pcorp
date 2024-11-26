@@ -194,7 +194,7 @@ const PortfolioDetails = ({portfolio}) => {
                                             width={930}
                                             height={521}
                                             className="w-100"
-                                            src="/images/portfolio/portfolio-big-image-01.jpg"
+                                            src="/images/bg/study_long_img.png"
                                             alt="POrtfolio Images"
                                         />
                                         <div className="video-button position-to-top">
