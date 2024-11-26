@@ -4,7 +4,7 @@
     "title": "Los Marineros",
     "subtitle": "featured case study",
     "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-    "image": "/images/featured/featured-image-01.jpg",
+    "image": "/images/bg/study_top_img.png",
     "counter": [
       {
         "title": "ROI increase",
@@ -17,24 +17,24 @@
     ],
     "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI",
     "projectBreif1": {
-      "image": "/images/featured/featured-brief-01.jpg",
+      "image": "/images/bg/project_brief_1.png",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "Designed and developed a web application for streamlined data management and decision-making processes. Implemented a functionality that allows users to approve or reject records, with approvals updating the status and rejections removing the entries.",
+        "Focused on creating efficient workflows and ensuring reliable data handling. The system is designed to enhance operational efficiency and provide clear record tracking for better decision-making."
       ]
     },
     "projectBreif2": {
       "image": "",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "Built a system to simplify the management of data and streamline decision-making processes. Developed features to handle approvals and rejections, ensuring updates are reflected accurately. The application focuses on improving workflow efficiency and maintaining data integrity.",
+        "Designed with user-friendly interfaces to enable seamless interactions and effective record tracking."
       ]
     },
     "solution": {
       "image": "",
       "description": [
-        "Nulla et velit gravida, facilisis quam a, molestie ante. Mauris placerat suscipit dui, eget maximus tellus blandit a. Praesent non tellus sed ligula commodo blandit in et mauris. Quisque efficitur ipsum ut dolor molestie pellentesque.",
-        "Nulla pharetra hendrerit mi quis dapibus. Quisque luctus, tortor a venenatis fermentum, est lacus feugiat nisl, id pharetra odio enim eget libero."
+        "Provided innovative and customized solutions to address complex business challenges in the IT sector. Designed efficient systems to streamline workflows, optimize processes, and ensure seamless integration of data across platforms.",
+        "Focused on delivering scalable, secure, and user-friendly applications that enhance productivity and support long-term business growth. Our solutions prioritize performance, reliability, and adaptability to meet evolving industry demands while ensuring client satisfaction."
       ]
     },
     "process": {

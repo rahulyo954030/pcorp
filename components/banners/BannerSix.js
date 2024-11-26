@@ -11,7 +11,7 @@ const BannerSix = (
         rightColumn = 'col-lg-7 order-1 order-lg-2',
         bannerImageOne = '/images/service/servicehero.png',
         bannerImageTwo = '/images/others/keystoke-image-2.svg',
-        shapeImage = '/images/service/single-service-02.png',
+        shapeImage = '/images/slider/single-service-02.png',
         isServiceDetails = false,
         showPersonImage = true,
     }

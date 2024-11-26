@@ -161,7 +161,7 @@ const CaseStudyDetails = ({caseStudy}) => {
                                             width={550}
                                             height={596}
                                             className="image w-100 paralax-image"
-                                            src="/images/featured/featured-image-07.jpg"
+                                            src="/images/bg/project_brief_2.png"
                                             alt="Featured Images"
                                         />
                                     </Tilt>
@@ -213,7 +213,7 @@ const CaseStudyDetails = ({caseStudy}) => {
                                                 width={910}
                                                 height={500}
                                                 className="w-100 paralax-image"
-                                                src="/images/featured/featured-b1.jpg"
+                                                src="/images/bg/study_long_img.png"
                                                 alt="Featured Images"
                                             />
                                         </Tilt>
