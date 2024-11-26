@@ -47,7 +47,7 @@ const BannerOne = () => {
                       <Image
                         width={500}
                         height={630}
-                        src="/images/others/homehero.svg"
+                        src="/images/bg/home_img.png"
                         alt="Keystoke Images"
                       />
                     </div>
