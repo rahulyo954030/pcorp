@@ -34,7 +34,7 @@ const BannerSix = (
                                 <div className="thumbnail">
                                     <Tilt tiltMaxAngleX={9} tiltMaxAngleY={9}>
                                         <Image
-                                            width={370}
+                                            width={400}
                                             height={466}
                                             className="paralax-image"
                                             src={bannerImageOne}
