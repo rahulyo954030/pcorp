@@ -32,9 +32,9 @@ const PortfolioFilter = (
             <button onClick={() => setActiveGenre(2)} className={activeGenre === 2 ? "is-checked" : ""}>
                 <span className="filter-text">Web</span>
             </button>
-            <button onClick={() => setActiveGenre(3)} className={activeGenre === 3 ? "is-checked" : ""}>
+            {/* <button onClick={() => setActiveGenre(3)} className={activeGenre === 3 ? "is-checked" : ""}>
                 <span className="filter-text">Graphic</span>
-            </button>
+            </button> */}
         </div>
     );
 };

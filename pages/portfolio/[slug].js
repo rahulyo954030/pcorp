@@ -37,6 +37,8 @@ const PortfolioDetails = ({portfolio}) => {
         setIsWindow(true);
     }, []);
 
+    console.log(portfolio.image)
+
     return (
         <Layout>
             <Head>
@@ -191,16 +193,16 @@ const PortfolioDetails = ({portfolio}) => {
                                 <div className="inner text-center">
                                     <div className="thumbnail position-relative">
                                         <Image
-                                            width={930}
-                                            height={521}
+                                            width={850}
+                                            height={550}
                                             className="w-100"
-                                            src="/images/bg/study_long_img.png"
+                                            src={portfolio?.image}
                                             alt="POrtfolio Images"
                                         />
                                         <div className="video-button position-to-top">
                                             <a
                                                 className="play__btn video-btn"
-                                                href="https://www.youtube.com/watch?v=Pj_geat9hvI"
+                                                href="https://youtu.be/JNR4os6Eups"
                                                 data-bs-toggle="modal"
                                                 data-bs-target="#exampleModal"
                                             >

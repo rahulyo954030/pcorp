@@ -1,80 +1,41 @@
 [
   {
     "id": 1,
-    "image": "/images/portfolio/img1.png",
-    "categories": ["ios", "design"],
+    "image": "/images/bg/WAAW.png",
+    "categories": ["Branding Application"],
     "categoryIds": [1, 2],
-    "title": "Creative Agency",
+    "title": "WAAW",
     "description": "We deliver innovative solutions for agencies, blending creativity with technical expertise.",
     "delivered": "Transformative projects tailored to meet client needs.",
     "strategy": "Comprehensive planning and execution to maximize impact.",
     "design": "Modern, user-centered approaches for a sleek aesthetic.",
     "development": "Scalable and robust solutions for seamless experiences.",
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI"
+    "videoUrl": "https://youtu.be/JNR4os6Eups"
   },
   {
     "id": 2,
-    "image": "/images/portfolio/img3.png",
-    "categories": ["Branding"],
+    "image": "/images/bg/Shipflow.png",
+    "categories": ["Branding Application"],
     "categoryIds": [2, 3],
-    "title": "Rent Bike",
+    "title": "Shipflow",
     "description": "Revolutionizing bike rentals with seamless technology integration.",
     "delivered": "Efficient systems designed for modern rental businesses.",
     "strategy": "Customer-first approaches ensuring intuitive usability.",
     "design": "Visually appealing, functional interfaces for all users.",
     "development": "Advanced systems built for performance and reliability.",
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI"
+    "videoUrl": "https://youtu.be/JNR4os6Eups"
   },
   {
     "id": 3,
-    "image": "/images/portfolio/img2.png",
+    "image": "/images/bg/Progra_LMS.png",
     "categories": ["Web application"],
     "categoryIds": [3, 4],
-    "title": "All Volees",
+    "title": "Progra LMS",
     "description": "Empowering businesses with cutting-edge web applications.",
     "delivered": "High-performing applications tailored to client goals.",
     "strategy": "Custom approaches ensuring business success.",
     "design": "Streamlined, functional, and appealing interfaces.",
     "development": "Technological innovation driving excellence.",
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI"
-  },
-  {
-    "id": 4,
-    "image": "/images/portfolio/img4.png",
-    "categories": ["Branding", "design"],
-    "categoryIds": [5, 6],
-    "title": "Larq",
-    "description": "Redefining branding with creative and modern designs.",
-    "delivered": "Memorable identities that stand out in the market.",
-    "strategy": "Strategic branding solutions aligned with business goals.",
-    "design": "Visually striking and memorable aesthetics.",
-    "development": "Implementation focused on brand consistency.",
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI"
-  },
-  {
-    "id": 5,
-    "image": "/images/portfolio/img5.png",
-    "categories": ["Branding"],
-    "categoryIds": [1, 2],
-    "title": "Trendy Design",
-    "description": "Creating timeless designs with a touch of modern flair.",
-    "delivered": "Trend-setting visuals that capture attention.",
-    "strategy": "Analysis-driven approaches for market relevance.",
-    "design": "Clean, elegant, and innovative designs.",
-    "development": "Functional and adaptable to various platforms.",
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI"
-  },
-  {
-    "id": 6,
-    "image": "/images/portfolio/img6.png",
-    "categories": ["ios", "design"],
-    "categoryIds": [3, 4],
-    "title": "Jet Airplane",
-    "description": "Innovating the aviation sector with cutting-edge technology and design.",
-    "delivered": "Advanced solutions for streamlined operations.",
-    "strategy": "Tailored strategies enhancing efficiency and performance.",
-    "design": "Sophisticated visuals ensuring clarity and appeal.",
-    "development": "State-of-the-art technology driving operational success.",
-    "videoUrl": "https://www.youtube.com/watch?v=Pj_geat9hvI"
+    "videoUrl": "https://youtu.be/JNR4os6Eups"
   }
 ]
