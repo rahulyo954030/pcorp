@@ -18,7 +18,7 @@ const TestimonialOne = () => {
                         <SectionTitle
                             title="From getting started"
                             subtitle="testimonials"
-                            description="In vel varius turpis, non dictum sem. Aenean in efficitur ipsum, in egestas ipsum. Mauris in mi ac tellus."
+                            description="We provide comprehensive IT services to help businesses launch and scale effectively, ensuring seamless operations from day one."
                             color="extra05-color"
                             alignment="center"
                         />

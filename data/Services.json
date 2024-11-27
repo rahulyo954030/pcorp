@@ -165,7 +165,7 @@
     },
     "iconColorClass": "gradient-color-04",
     "title": "Business",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Empower businesses with innovative solutions like cloud computing, AI, and automation to optimize workflows, boost productivity, and achieve scalable growth.",
     "category": "Default",
     "slug": "business",
     "process": {
@@ -217,7 +217,7 @@
     },
     "iconColorClass": "gradient-color-06",
     "title": "Technology",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Harness the power of emerging technologies to solve real-world problems, drive innovation, and create smarter, more connected systems.",
     "category": "Default",
     "slug": "technology",
     "process": {
@@ -269,7 +269,7 @@
     },
     "iconColorClass": "gradient-color-05",
     "title": "Content strategy",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Develop a tech-focused content strategy that simplifies complex concepts, builds authority, and engages audiences with relevant and impactful messaging.",
     "category": "Default",
     "slug": "content-strategy",
     "process": {
@@ -321,7 +321,7 @@
     },
     "iconColorClass": "",
     "title": "Logo & branding",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Craft unique and memorable brand identities that resonate with your audience and set your business apart.",
     "category": "Design",
     "slug": "logo-and-branding",
     "process": {
@@ -425,7 +425,7 @@
     },
     "iconColorClass": "gradient-color-03",
     "title": "Mobile app design",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Deliver intuitive and visually stunning mobile app designs tailored to enhance user experience and engagement.",
     "category": "Design",
     "slug": "mobile-app-design",
     "process": {
@@ -477,7 +477,7 @@
     },
     "iconColorClass": "gradient-color-04",
     "title": "Graphic/print design",
-    "description": "From simple Content Management System to complex eCommerce developer, we cover it all.",
+    "description": "Create impactful designs for print materials that effectively communicate your message and elevate your brand.",
     "category": "Design",
     "slug": "graphic-print-design",
     "process": {
@@ -529,7 +529,7 @@
     },
     "iconColorClass": "gradient-color-03",
     "title": "Video production",
-    "description": "From simple Content Management System to complex eCommerce developer, we cover it all.",
+    "description": "Produce high-quality, engaging videos that bring your vision to life and captivate your audience.",
     "category": "Design",
     "slug": "video-production",
     "process": {
@@ -581,7 +581,7 @@
     },
     "iconColorClass": "",
     "title": "Content Managment",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "From simple Content Management System to complex eCommerce developer, we cover it all.",
     "category": "Development",
     "slug": "content-management",
     "process": {
@@ -633,7 +633,7 @@
     },
     "iconColorClass": "gradient-color-02",
     "title": "Mobile app development",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Build innovative, user-friendly mobile apps tailored to your business goals, ensuring seamless functionality across platforms.",
     "category": "Development",
     "slug": "mobile-app-development",
     "process": {
@@ -685,7 +685,7 @@
     },
     "iconColorClass": "gradient-color-03",
     "title": "eCommerce",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Create dynamic, scalable eCommerce solutions to boost sales and deliver exceptional customer experiences.",
     "category": "Development",
     "slug": "e-commerce",
     "process": {
@@ -737,7 +737,7 @@
     },
     "iconColorClass": "",
     "title": "SEO",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Optimize your website for search engines to increase visibility, drive organic traffic, and enhance online presence.",
     "category": "Online Marketing",
     "slug": "search-engine-optimization",
     "process": {
@@ -789,7 +789,7 @@
     },
     "iconColorClass": "gradient-color-02",
     "title": "Pay-per click",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Manage targeted PPC campaigns that maximize ROI and ensure your ads reach the right audience.",
     "category": "Online Marketing",
     "slug": "pay-per-click",
     "process": {
@@ -841,7 +841,7 @@
     },
     "iconColorClass": "gradient-color-03",
     "title": "Email marketing",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Design and execute personalized email campaigns that drive engagement, nurture leads, and boost conversions.",
     "category": "Online Marketing",
     "slug": "email-marketing",
     "process": {
@@ -893,7 +893,7 @@
     },
     "iconColorClass": "gradient-color-04",
     "title": "Display marketing",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Develop eye-catching display ads to effectively promote your brand and capture attention across digital platforms.",
     "category": "Online Marketing",
     "slug": "display-marketing",
     "process": {
@@ -945,7 +945,7 @@
     },
     "iconColorClass": "gradient-color-02",
     "title": "Social media marketing",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Leverage social media platforms to connect with your audience, build brand loyalty, and drive business growth.",
     "category": "Online Marketing",
     "slug": "social-media-marketing",
     "process": {
@@ -997,7 +997,7 @@
     },
     "iconColorClass": "",
     "title": "Digital strategy",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Develop comprehensive digital strategies that align with your business goals, driving growth and enhancing online presence.",
     "category": "Business",
     "slug": "digital-strategy",
     "process": {
@@ -1049,7 +1049,7 @@
     },
     "iconColorClass": "gradient-color-02",
     "title": "Business consulting",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Offer expert consulting services to identify challenges, optimize processes, and unlock new opportunities for your business.",
     "category": "Business",
     "slug": "business-consulting",
     "process": {
@@ -1101,7 +1101,7 @@
     },
     "iconColorClass": "gradient-color-03",
     "title": "Content writing",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Craft compelling, tailored content that engages your audience and strengthens your brand's voice across all platforms.",
     "category": "Business",
     "slug": "content-writing",
     "process": {
@@ -1153,7 +1153,7 @@
     },
     "iconColorClass": "gradient-color-02",
     "title": "Reporting",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Deliver detailed and actionable reports, providing insights into performance metrics and guiding strategic decisions.",
     "category": "Business",
     "slug": "reporting",
     "process": {
@@ -1205,7 +1205,7 @@
     },
     "iconColorClass": "",
     "title": "Hosting",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Provide secure, reliable, and scalable hosting solutions tailored to ensure your website and applications run smoothly 24/7.",
     "category": "Technology",
     "slug": "hosting",
     "process": {
@@ -1257,7 +1257,7 @@
     },
     "iconColorClass": "gradient-color-02",
     "title": "Big data analysis",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Transform complex data into actionable insights with advanced big data analytics, empowering informed decision-making and business growth.",
     "category": "Technology",
     "slug": "big-data-analysis",
     "process": {

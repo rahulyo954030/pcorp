@@ -14,7 +14,7 @@ const PricingOne = () => {
             <SectionTitle
               title="From getting started"
               subtitle="pricing plan"
-              description="In vel varius turpis, non dictum sem. Aenean in efficitur ipsum, in egestas ipsum. Mauris in mi ac tellus."
+              description="We offer competitive pricing tailored to your needs, ensuring you receive top-notch IT services without exceeding your budget."
               color="extra04-color"
               alignment="center"
             />
