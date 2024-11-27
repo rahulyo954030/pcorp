@@ -43,9 +43,7 @@ const HomeOne = ({posts}) => {
                 <PricingOne/>
 
                 <BrandOne/>
-
-                {/* <BlogOne posts={posts.slice(0, 2)}/> */}
-
+                
                 <CallToActionOne/>
             </main>
         </Layout>
