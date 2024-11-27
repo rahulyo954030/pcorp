@@ -3,7 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import Head from "next/head";
 import AboutOne from "../components/abouts/AboutOne";
-import BlogOne from "../components/blogs/BlogOne";
+// import BlogOne from "../components/blogs/BlogOne";
 import BrandOne from "../components/brands/BrandOne";
 import CallToActionOne from "../components/call-to-actions/CallToActionOne";
 import CounterOne from "../components/counters/CounterOne";
@@ -44,7 +44,7 @@ const HomeOne = ({ posts }) => {
 
         <BrandOne />
 
-        <BlogOne posts={posts.slice(0, 2)} />
+        {/* <BlogOne posts={posts.slice(0, 2)} /> */}
 
         <CallToActionOne />
       </main>
