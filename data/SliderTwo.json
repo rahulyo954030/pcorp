@@ -2,9 +2,9 @@
   {
     "id": 1,
     "image": "/images/featured/Img-1.png",
-    "subtitle": "featured case study",
-    "title": "Logo, identity & web design for Uber",
-    "description": "Uber’s website focuses on user-friendly navigation, clean layouts, and intuitive design. It ensures quick access to booking rides, exploring services, and managing accounts, enhancing the user experience across all devices.",
+    "subtitle": "Our Services",
+    "title": "Logo and Web design services",
+    "description": "We specialize in logo design, brand identity, and web development services to help your business create a strong and memorable presence. Our tailored solutions ensure your brand stands out, connecting with your audience through creative, functional, and engaging designs.",
     "counter": [
       {
         "title": "ROI increase",
@@ -12,43 +12,43 @@
       },
       {
         "title": "Monthly website visits",
-        "amount": 60
+        "amount": 50
       }
     ],
     "buttonText": "Read Case Study"
   },
   {
     "id": 2,
-    "image": "/images/featured/Img-2.png",
-    "subtitle": "featured case study",
-    "title": "Logo, identity & web design for Uber",
-    "description": "Uber’s website focuses on user-friendly navigation, clean layouts, and intuitive design. It ensures quick access to booking rides, exploring services, and managing accounts, enhancing the user experience across all devices.",
+    "image": "/images/bg/discuss.png",
+    "subtitle": "Our Services",
+    "title": "Brand Identity Building",
+    "description": "Our branding services help businesses create a strong, consistent identity. From logo design to messaging, we craft unique brand experiences that resonate with your audience and set you apart in the market.",
     "counter": [
       {
         "title": "ROI increase",
-        "amount": 15
+        "amount": 21
       },
       {
         "title": "Monthly website visits",
-        "amount": 60
+        "amount": 45
       }
     ],
     "buttonText": "Read Case Study"
   },
   {
     "id": 3,
-    "image": "/images/featured/Img-3.png",
-    "subtitle": "featured case study",
-    "title": "Logo, identity & web design for Uber",
-    "description": "Uber’s website focuses on user-friendly navigation, clean layouts, and intuitive design. It ensures quick access to booking rides, exploring services, and managing accounts, enhancing the user experience across all devices.",
+    "image": "/images/bg/project_brief_2.png",
+    "subtitle": "Our Services",
+    "title": "Application Development",
+    "description": "Our application building services provide custom, scalable solutions to meet your business needs. From concept to launch, we create intuitive, high-performance apps that enhance user experience and drive business growth",
     "counter": [
       {
         "title": "ROI increase",
-        "amount": 15
+        "amount": 25
       },
       {
         "title": "Monthly website visits",
-        "amount": 60
+        "amount": 65
       }
     ],
     "buttonText": "Read Case Study"

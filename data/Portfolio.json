@@ -37,5 +37,31 @@
     "design": "Streamlined, functional, and appealing interfaces.",
     "development": "Technological innovation driving excellence.",
     "videoUrl": "https://youtu.be/JNR4os6Eups"
+  },
+  {
+    "id": 4,
+    "image": "/images/bg/Giving_Tuesday.png",
+    "categories": ["Branding Application"],
+    "categoryIds": [2, 3],
+    "title": "Giving Tuesday",
+    "description": "GivingTuesday is a global movement dedicated to encouraging generosity and community support. It inspires people to give back to causes they care about, creating a ripple of positive change worldwide.",
+    "delivered": "Efficient systems designed for modern rental businesses.",
+    "strategy": "Customer-first approaches ensuring intuitive usability.",
+    "design": "Visually appealing, functional interfaces for all users.",
+    "development": "Advanced systems built for performance and reliability.",
+    "videoUrl": "https://youtu.be/JNR4os6Eups"
+  },
+  {
+    "id": 5,
+    "image": "/images/bg/Canada_Helps.png",
+    "categories": ["Branding Application"],
+    "categoryIds": [3, 4],
+    "title": "Canada Helps",
+    "description": "CanadaHelps empowers Canadians to give back easily and securely. Supporting charities nationwide, it simplifies donations, fundraising, and connecting with causes that matter most.",
+    "delivered": "High-performing applications tailored to client goals.",
+    "strategy": "Custom approaches ensuring business success.",
+    "design": "Streamlined, functional, and appealing interfaces.",
+    "development": "Technological innovation driving excellence.",
+    "videoUrl": "https://youtu.be/JNR4os6Eups"
   }
 ]
