@@ -1309,7 +1309,7 @@
     },
     "iconColorClass": "",
     "title": "Design",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "description": "Create visually appealing and functional designs that align with your brand and captivate your audience.",
     "category": "Content strategy",
     "slug": "design-1",
     "process": {
@@ -1360,8 +1360,8 @@
       "height": "24"
     },
     "iconColorClass": "gradient-color-02",
-    "title": "Design",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "title": "Design develope",
+    "description": "Turn creative concepts into fully developed, user-friendly designs that enhance user experience and support business goals.",
     "category": "Content strategy",
     "slug": "design-2",
     "process": {
@@ -1412,8 +1412,8 @@
       "height": "34"
     },
     "iconColorClass": "gradient-color-03",
-    "title": "Design",
-    "description": "We design professional looking yet simple websites. Our designs are search engine and user friendly.",
+    "title": "Design delivery",
+    "description": "Ensure timely and efficient delivery of high-quality designs, providing seamless implementation across all platforms and media.",
     "category": "Content strategy",
     "slug": "design-3",
     "process": {
