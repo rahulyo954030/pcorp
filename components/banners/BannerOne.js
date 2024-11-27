@@ -46,8 +46,8 @@ const BannerOne = () => {
                     <div className="light-image">
                       <Image
                         width={500}
-                        height={630}
-                        src="/images/bg/home_img.png"
+                        height={560}
+                        src="/images/bg/homehero.png"
                         alt="Keystoke Images"
                       />
                     </div>
