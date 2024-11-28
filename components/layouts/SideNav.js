@@ -91,12 +91,12 @@ const SideNav = ({toggleSidenav}) => {
                                     <div className="contact-social-share d-flex align-items-center">
                                         <ul className="social-share style-rounded">
                                             <li>
-                                                <a href="https://www.facebook.com/" target="_blank" rel="noreferrer">
+                                                <a href="https://www.facebook.com/joinpragra/" target="_blank" rel="noreferrer">
                                                     <i className="fab fa-facebook-f"/>
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="https://twitter.com/" target="_blank" rel="noreferrer">
+                                                <a href="https://twitter.com/joinpragra" target="_blank" rel="noreferrer">
                                                     <i className="fa-brands fa-x-twitter"/>
                                                 </a>
                                             </li>
@@ -106,7 +106,7 @@ const SideNav = ({toggleSidenav}) => {
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="https://www.linkedin.com/" target="_blank" rel="noreferrer">
+                                                <a href="https://www.linkedin.com/company/pragra-canada-usa/?originalSubdomain=in" target="_blank" rel="noreferrer">
                                                     <i className="fab fa-linkedin-in"/>
                                                 </a>
                                             </li>
