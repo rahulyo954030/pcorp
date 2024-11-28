@@ -30,10 +30,10 @@ const PrivacyPolicy = () => {
                                         </p>
 
 
-                                        <h3>About Keystroke</h3>
+                                        <h3>About Pragracorp</h3>
                                         <p className="subtitle-2 mb--40">
-                                        Keystroke is dedicated to building innovative solutions that prioritize user experience and security. For queries or assistance, please contact us at hello@keystroke.com.<a
-                                            href="#">hello@keystroke.com</a>
+                                        Pragracorp is dedicated to building innovative solutions that prioritize user experience and security. For queries or assistance, please contact us at info@pragracorp.com.<a
+                                            href="mailto:info@pragracorp.com">info@pragracorp.com</a>
                                         </p>
 
                                         <h3>When we collect personal data about you</h3>
