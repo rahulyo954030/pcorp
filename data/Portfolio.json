@@ -10,7 +10,8 @@
     "strategy": "Comprehensive planning and execution to maximize impact.",
     "design": "Modern, user-centered approaches for a sleek aesthetic.",
     "development": "Scalable and robust solutions for seamless experiences.",
-    "videoUrl": "https://youtu.be/JNR4os6Eups"
+    "videoUrl": "https://youtu.be/JNR4os6Eups",
+    "site": ""
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "strategy": "Customer-first approaches ensuring intuitive usability.",
     "design": "Visually appealing, functional interfaces for all users.",
     "development": "Advanced systems built for performance and reliability.",
-    "videoUrl": "https://youtu.be/JNR4os6Eups"
+    "videoUrl": "https://youtu.be/JNR4os6Eups",
+    "site": ""
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "strategy": "Custom approaches ensuring business success.",
     "design": "Streamlined, functional, and appealing interfaces.",
     "development": "Technological innovation driving excellence.",
-    "videoUrl": "https://youtu.be/JNR4os6Eups"
+    "videoUrl": "https://youtu.be/JNR4os6Eups",
+    "site": ""
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "strategy": "Customer-first approaches ensuring intuitive usability.",
     "design": "Visually appealing, functional interfaces for all users.",
     "development": "Advanced systems built for performance and reliability.",
-    "videoUrl": "https://youtu.be/JNR4os6Eups"
+    "videoUrl": "https://youtu.be/JNR4os6Eups",
+    "site": "https://www.givingtuesday.org/"
   },
   {
     "id": 5,
@@ -62,6 +66,7 @@
     "strategy": "Custom approaches ensuring business success.",
     "design": "Streamlined, functional, and appealing interfaces.",
     "development": "Technological innovation driving excellence.",
-    "videoUrl": "https://youtu.be/JNR4os6Eups"
+    "videoUrl": "https://youtu.be/JNR4os6Eups",
+    "site": "https://www.canadahelps.org/en/"
   }
 ]

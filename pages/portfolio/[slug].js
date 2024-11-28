@@ -37,7 +37,7 @@ const PortfolioDetails = ({portfolio}) => {
         setIsWindow(true);
     }, []);
 
-    console.log(portfolio.image)
+    console.log(portfolio)
 
     return (
         <Layout>
@@ -75,12 +75,22 @@ const PortfolioDetails = ({portfolio}) => {
                                                 __html: portfolio.description,
                                             }}
                                         />
-                                        <Link href="#">
+                                        {portfolio?.site &&
+                                        <a target='_blank' href={portfolio?.site}>
                                             <a className="axil-button btn-large btn-transparent">
                                                 <span className="button-text">Launch The Site </span>
                                                 <span className="button-icon"/>
                                             </a>
-                                        </Link>
+                                        </a> 
+                                        // :
+                                        // <a href="#">
+                                        //     <a className="axil-button btn-large btn-transparent">
+                                        //         <span className="button-text">Launch The Site </span>
+                                        //         <span className="button-icon"/>
+                                        //     </a>
+                                        // </a>
+
+                                        }
                                     </div>
                                 </div>
                             </div>
