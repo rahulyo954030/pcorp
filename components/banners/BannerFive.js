@@ -32,7 +32,7 @@ const BannerFive = () => {
 
                 <div className="contact-form-wrapper">
                     <div className="axil-contact-form contact-form-style-1">
-                        <h3 className="title">Get a free Keystroke quote now</h3>
+                        <h3 className="title">Get a free Pragracorp quote now</h3>
                         <ContactFormOne/>
                         <div className="callto-action-wrapper text-center">
                             <span className="text">Or call us now</span>
