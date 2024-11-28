@@ -1,10 +1,10 @@
 {
   "social": [
-    {"type":  "facebook", "icon": "fa-facebook-f", "url":  "https://www.facebook.com/"},
-    {"type":  "twitter", "icon": "fa-brands fa-x-twitter", "url":  "https://twitter.com/"},
-    {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "https://www.pinterest.com/"},
-    {"type":  "linkedin", "icon": "fa-linkedin-in", "url":  "https://www.linkedin.com/"},
-    {"type":  "instagram", "icon": "fa-instagram", "url":  "https://www.instagram.com/"},
+    {"type":  "facebook", "icon": "fa-facebook-f", "url":  "https://www.facebook.com/joinpragra/"},
+    {"type":  "twitter", "icon": "fa-brands fa-x-twitter", "url":  "https://twitter.com/joinpragra"},
+    {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "https://ca.pinterest.com/joinpragra/"},
+    {"type":  "linkedin", "icon": "fa-linkedin-in", "url":  "https://www.linkedin.com/company/pragra-canada-usa/?originalSubdomain=in"},
+    {"type":  "instagram", "icon": "fa-instagram", "url":  "https://www.instagram.com/joinpragra/"},
     {"type":  "vimeo", "icon": "fa-vimeo-v", "url":  "https://vimeo.com/"},
     {"type":  "dribble", "icon": "fa-dribbble", "url":  "https://dribbble.com/"},
     {"type":  "behance", "icon": "fa-behance", "url":  "https://www.behance.net/"}
