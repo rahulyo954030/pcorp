@@ -76,7 +76,7 @@ const PortfolioDetails = ({portfolio}) => {
                                             }}
                                         />
                                         {portfolio?.site &&
-                                        <a target='_blank' href={portfolio?.site}>
+                                        <a href={portfolio?.site} target='_blank' rel="noreferrer">
                                             <a className="axil-button btn-large btn-transparent">
                                                 <span className="button-text">Launch The Site </span>
                                                 <span className="button-icon"/>
