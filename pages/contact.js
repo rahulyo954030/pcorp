@@ -45,7 +45,7 @@ const Contact = () => {
                                                 </p>
                                                 <p>
                                                     <a className="axil-link" href="tel:1234567890">
-                                                        +1 (647) 343-5453
+                                                        +1 (905) 407-5009
                                                     </a>
                                                 </p>
                                             </div>
@@ -72,7 +72,7 @@ const Contact = () => {
                                                         className="axil-link"
                                                         href="mailto:pragracorp@gmail.com"
                                                     >
-                                                        pragracorp@gmail.com
+                                                        info@pragracorp.com
                                                     </a>
                                                 </p>
                                             </div>
@@ -123,11 +123,11 @@ const Contact = () => {
                                         />
                                     </div>
                                     <div className="content">
-                                        <h4 className="title">Virginia-HQ</h4>
+                                        <h4 className="title">Illinois</h4>
                                         <p>
-                                            435 Pouros Locks <br/> United States
+                                        935 N Plum Grove Rd STE D, Schaumburg, Illinois <br/> United States 60173
                                         </p>
-                                        <a className="axil-button btn-transparent" href="#">
+                                        <a className="axil-button btn-transparent" href="https://www.google.com/maps/search/?api=1&query=42.04614134631992,-88.05670664671698">
                                             <span className="button-text">View on Map</span>
                                             <span className="button-icon"></span>
                                         </a>
@@ -135,7 +135,7 @@ const Contact = () => {
                                 </div>
                             </div>
 
-                            <div className="col-lg-3 col-md-6 col-sm-6 col-12">
+                            {/* <div className="col-lg-3 col-md-6 col-sm-6 col-12">
                                 <div
                                     className="axil-office-location mt--30"
                                     data-aos="aos-fade-in-up"
@@ -187,9 +187,9 @@ const Contact = () => {
                                         </a>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="col-lg-3 col-md-6 col-sm-6 col-12">
+                            {/* <div className="col-lg-3 col-md-6 col-sm-6 col-12">
                                 <div
                                     className="axil-office-location mt--30"
                                     data-aos="aos-fade-in-up"
@@ -214,7 +214,7 @@ const Contact = () => {
                                         </a>
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

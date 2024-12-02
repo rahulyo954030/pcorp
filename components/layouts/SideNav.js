@@ -74,7 +74,7 @@ const SideNav = ({toggleSidenav}) => {
                                         <p>
                                             <a className="tel" href="tel:8884562790">
                                                 <i className="fas fa-phone"/>
-                                                +1 (647) 343-5453
+                                                +1 (905) 407-5009
                                             </a>
                                         </p>
                                         <p>

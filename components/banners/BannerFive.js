@@ -37,7 +37,7 @@ const BannerFive = () => {
                         <div className="callto-action-wrapper text-center">
                             <span className="text">Or call us now</span>
                             <span>
-                               <i className="fal fa-phone-alt"/> <a href="#">+1 (647) 343-5453</a>
+                               <i className="fal fa-phone-alt"/> <a href="#">+1 (905) 407-5009</a>
                             </span>
                         </div>
                     </div>
