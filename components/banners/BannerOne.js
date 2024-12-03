@@ -15,7 +15,7 @@ const BannerOne = () => {
                   data-aos="aos-fade-in-up"
                   data-aos-duration="1000"
                 >
-                  Discover top tech roles and build the career you deserve.
+                  Discover top tech roles and build the career you deserve
                 </h1>
                 <p
                   className="subtitle-3"
