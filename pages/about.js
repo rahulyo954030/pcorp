@@ -81,7 +81,7 @@ const About = () => {
                                     <div className="thumbnail">
                                         <Image
                                             width={801}
-                                            height={712}
+                                            height={800}
                                             className="image w-100"
                                             src="/images/bg/building_software.png"
                                             alt="Featured Images"
@@ -103,7 +103,7 @@ const About = () => {
                                         <h2 className="title">
                                             <Link href={`/case-study/${slugify(CaseStudyData[0].title)}`}>
                                                 <a>
-                                                    Building software for world changers{" "}
+                                                Building  a fast paced hiring platform{" "}
                                                 </a>
                                             </Link>
                                         </h2>
@@ -122,14 +122,14 @@ const About = () => {
                                             <h3 className="count">
                                                 <CountUp start={0} end={inView ? "15" : 0}/>
                                             </h3>
-                                            <p>ROI increase</p>
+                                            <p>Monthly website visit</p>
                                         </div>
 
                                         <div className="single-counterup counterup-style-1">
                                             <h3 className="count counter-k">
                                                 <CountUp start={0} end={inView ? "60" : 0}/>
                                             </h3>
-                                            <p>Monthly website visits</p>
+                                            <p>Tech talents</p>
                                         </div>
                                     </div>
                                 </div>

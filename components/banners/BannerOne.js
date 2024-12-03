@@ -15,7 +15,7 @@ const BannerOne = () => {
                   data-aos="aos-fade-in-up"
                   data-aos-duration="1000"
                 >
-                  Build World-Class Teams with Pragra Corp
+                  Discover your ideal tech role at top companies and shape the career you deserve.
                 </h1>
                 <p
                   className="subtitle-3"

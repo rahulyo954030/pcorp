@@ -30,9 +30,9 @@ const TeamOne = () => {
                         <div className="content">
                             <div className="inner">
                                 <SectionTitle
-                                    title="Alone we can do so little; together we can do so much."
+                                    title="Unlock your next opportunity"
                                     subtitle="our team"
-                                    description="Our team is the backbone of our success, a diverse group of talented individuals who bring unique skills, perspectives, and passion to the table. Through collaboration, innovation, and a shared vision, we work together to create impactful solutions that make a difference in the world."
+                                    description="Join millions of tech professionals on Dice to advance your career. Explore jobs, connect with companies, and access expert advice."
                                     color="extra08-color"
                                     alignment="left"
                                 />

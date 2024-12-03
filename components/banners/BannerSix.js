@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const BannerSix = (
     {
-        title = 'Best solutions for your business',
+        title = 'Find best solutions for your business',
         subtitle = 'A quick view of industry specific problems solved with design by the awesome team at Pragracorp.',
         bannerStyleClass = 'axil-breadcrumb-area breadcrumb-style-2 pt--170 pb--70 theme-gradient',
         bannerTitleClass = 'page-title mb--20',

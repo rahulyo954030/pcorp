@@ -32,7 +32,7 @@ const BrandOne = ({
           </div>
           <div className="col-xl-8 col-lg-8 mt_md--40 mt_sm--40">
             <div className="axil-brand-logo-wrapper">
-              <ul className="brand-list liststyle d-flex flex-wrap justify-content-center">
+              {/* <ul className="brand-list liststyle d-flex flex-wrap justify-content-center">
                 {brands?.map((brand, index) => (
                   <li key={`brand-${index}`}>
                     <Link href="#">
@@ -47,7 +47,8 @@ const BrandOne = ({
                     </Link>
                   </li>
                 ))}
-              </ul>
+              </ul> */}
+              <Image src='/images/bg/clientProject.png' height={500} width={1000} alt='client projects'/>
             </div>
           </div>
         </div>

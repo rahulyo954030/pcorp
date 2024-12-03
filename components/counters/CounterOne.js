@@ -17,9 +17,9 @@ const CounterOne = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SectionTitle
-                            title="Design startup movement"
+                            title="Hire the best tech talent now"
                             subtitle="experts in field"
-                            description="Design fuels innovation and growth. A strong design foundation, from creative solutions to user-centered approaches, is key to startup success, helping businesses create impactful experiences that stand out in competitive markets."   color="extra08-color"
+                            description="With access to millions of tech professionals and the AI matching tools to connect you with the best ones, Dice makes filling your open roles easier than ever."   color="extra08-color"
                             alignment="center"
                         />
                     </div>

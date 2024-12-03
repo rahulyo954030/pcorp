@@ -6,7 +6,7 @@
       "height": "36",
       "src": "/images/counterup/shape-01.png"
     },
-    "amount": 15,
+    "amount": 2,
     "title": "Years of operation"
   },
   {
@@ -16,7 +16,7 @@
       "height": "28",
       "src": "/images/counterup/shape-02.png"
     },
-    "amount": 360,
+    "amount": 36,
     "title": "Projects deliverd"
   },
   {
@@ -27,7 +27,7 @@
       "src": "/images/counterup/shape-03.png"
     },
     "amount": 600,
-    "title": "Specialist"
+    "title": "Tech talents"
   },
   {
     "id": 4,
@@ -36,7 +36,7 @@
       "height": "36",
       "src": "/images/counterup/shape-04.png"
     },
-    "amount": 64,
-    "title": "Years of operation"
+    "amount": 20,
+    "title": "Fields of services"
   }
 ]
