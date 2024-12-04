@@ -38,6 +38,7 @@ const Footer = ({footerSetting = {}}) => {
     setShowAlert(true);
     setIsMessageSent(true);
 
+    setEmail("");
     setTimeout(() => {
       setShowAlert(false);
     }, 4000);
@@ -146,7 +147,7 @@ const Footer = ({footerSetting = {}}) => {
                                                         type="email"
                                                         placeholder="Email"
                                                         // Clear input when message is sent
-                                                        value={isMessageSent ? "" : email}
+                                                        value={email}
                                                         onChange={(e) => {
                                                         setEmail(e.target.value);
                                                         setIsMessageSent(false); // Reset if user starts typing again

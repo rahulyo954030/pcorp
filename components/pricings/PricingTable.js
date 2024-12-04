@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { useState } from "react";
 
 const PricingTable = ({ column, pricingTableClass, buttonClass, data }) => {
@@ -34,10 +35,12 @@ const PricingTable = ({ column, pricingTableClass, buttonClass, data }) => {
               </div>
             </div>
             <div className="pricing-get-button">
-              <a className={`axil-button btn-large ${buttonClass}`} href="#">
-                <span className="button-text">Get Started Today</span>
+              <Link href={'/contact'}>
+              <a className={`axil-button btn-large ${buttonClass}`}>
+                <span className="button-text">Contact Us</span>
                 <span className="button-icon"></span>
               </a>
+              </Link>
             </div>
             <span className="subtitle">{data.subtitleTwo}</span>
           </div>

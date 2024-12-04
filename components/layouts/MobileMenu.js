@@ -93,9 +93,9 @@ const MobileMenu = () => {
                         <Link href="/home-01">
                             <a>
                                 <Image
-                                    width={250}
-                                    height={60}
-                                    src="/images/logo/keystoke.svg"
+                                    width={200}
+                                    height={50}
+                                    src="/images/bg/pragra.png"
                                     alt="Logo images"
                                 />
                             </a>

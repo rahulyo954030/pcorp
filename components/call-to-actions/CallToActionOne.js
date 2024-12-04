@@ -15,9 +15,9 @@ const CallToActionOne = () => {
                                 alignment="center"
                             />
                             <div className="text-center">
-                                <Link href={'/portfolio'}>
+                                <Link href={'/contact'}>
                                 <a className="axil-button btn-large btn-transparent">
-                                    <span className="button-text">Estimate Project</span>
+                                    <span className="button-text">Contact Us</span>
                                     <span className="button-icon"/>
                                 </a>
                                 </Link>
