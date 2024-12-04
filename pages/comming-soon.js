@@ -22,7 +22,7 @@ const CommingSoon = () => {
                                 <div className="col-xl-8 col-lg-10 col-12">
                                     <div className="content">
                                         <div className="logo pt--30">
-                                            <Link href="/home-01">
+                                            <Link href="/">
                                                 <a>
                                                     <Logo/>
                                                 </a>

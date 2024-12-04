@@ -23,7 +23,7 @@ const ErrorPage = () => {
                                             Enim, recusandae <br/> consectetur nesciunt magnam
                                             facilis aliquid amet earum alias?
                                         </p>
-                                        <Link href="/home-01">
+                                        <Link href="/">
                                             <a className="axil-button btn-large btn-transparent">
                                                 <span className="button-text">Go Back</span>
                                                 <span className="button-icon"/>

@@ -175,7 +175,7 @@ const Footer = ({footerSetting = {}}) => {
                                             ) : (
                                                 <>
                                                     <div className="logo">
-                                                        <Link href="/home-01">
+                                                        <Link href="/">
                                                             <a>
                                                                 <Logo variant="two" fillTextColor="#fff"/>
                                                             </a>
