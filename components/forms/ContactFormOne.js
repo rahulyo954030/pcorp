@@ -6,10 +6,26 @@ import Input from "./Input";
 const ContactFormOne = () => {
   const [showAlert, setShowAlert] = useState(false);
   const [isMessageSent, setIsMessageSent] = useState(false);
+  const [validationError, setValidationError] = useState("");
   const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
+
+      const formData = new FormData(form.current);
+      const name = formData.get("name").trim();
+      const email = formData.get("email").trim();
+      const company = formData.get("company").trim();
+      const phone = formData.get("phone").trim();
+  
+      if (!name || !email || !company || !phone) {
+        setValidationError("All fields are required.");
+        setShowAlert(true);
+        setIsMessageSent(false);
+        setTimeout(() => setShowAlert(false), 4000);
+        return;
+      }
+      setValidationError("");
 
     emailjs
       .sendForm(
@@ -53,11 +69,13 @@ const ContactFormOne = () => {
       {showAlert && (
         <Alert
           message={
-            isMessageSent
+            validationError
+              ? validationError // Show validation error if exists
+              : isMessageSent
               ? "Your message was sent successfully"
               : "Something went wrong"
           }
-          type={isMessageSent ? "success" : "danger"}
+          type={validationError ? "danger" : isMessageSent ? "success" : "danger"}
         />
       )}
     </form>
