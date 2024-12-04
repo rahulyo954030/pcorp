@@ -43,9 +43,9 @@ const TeamOne = () => {
                                             <span className="button-icon"></span>
                                         </a>
                                     </Link>
-                                    <a className="axil-button axil-link-button" href="#">
+                                    {/* <a className="axil-button axil-link-button" href="#">
                                         Careers
-                                    </a>
+                                    </a> */}
                                 </div>
                             </div>
                         </div>

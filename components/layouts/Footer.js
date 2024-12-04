@@ -2,9 +2,13 @@ import Link from 'next/link';
 import {useEffect, useState} from 'react';
 import Logo from '../common/Logo';
 import FooterMenu from '../../data/FooterMenu';
+import Alert from '../forms/Alert';
 
 const Footer = ({footerSetting = {}}) => {
     const [footerSettings, setFooterSettings] = useState({});
+    const [email, setEmail] = useState("");
+    const [showAlert, setShowAlert] = useState(false);
+    const [isMessageSent, setIsMessageSent] = useState(false);
 
     useEffect(() => {
         if (footerSetting === "") {
@@ -16,6 +20,32 @@ const Footer = ({footerSetting = {}}) => {
             setFooterSettings(footerSetting);
         }
     }, [footerSetting]);
+
+    const handleSubscribe = (e) => {
+        e.preventDefault();
+    
+  if (!email.trim()) {
+    setShowAlert(true);
+    setIsMessageSent(false);
+
+    setTimeout(() => {
+      setShowAlert(false);
+    }, 4000);
+    return;
+  }
+
+  if (!isMessageSent) {
+    setShowAlert(true);
+    setIsMessageSent(true);
+
+    setTimeout(() => {
+      setShowAlert(false);
+    }, 4000);
+  } else {
+    setIsMessageSent(false);
+    setShowAlert(false);
+  }
+      };
 
     return (
         <footer
@@ -106,14 +136,40 @@ const Footer = ({footerSetting = {}}) => {
                                                         urna <br/> bibendum magna&sbquo; ut ullamcorper purus */}
                                                     </p>
                                                     <div className="axil-newsletter">
-                                                        <form className="newsletter-form" action="#">
-                                                            <input type="email" placeholder="Email"/>
-                                                            <a className="axil-button btn-transparent" href="#">
-                                                                <span className="button-text">Subscribe</span>
-                                                                <span className="button-icon"/>
-                                                            </a>
-                                                        </form>
-                                                    </div>
+                                                    <form
+                                                    className="newsletter-form"
+                                                    action="#"
+                                                    onSubmit={handleSubscribe} // Attach the handler here
+                                                    >
+                                                    <input
+                                                        name="email"
+                                                        type="email"
+                                                        placeholder="Email"
+                                                        // Clear input when message is sent
+                                                        value={isMessageSent ? "" : email}
+                                                        onChange={(e) => {
+                                                        setEmail(e.target.value);
+                                                        setIsMessageSent(false); // Reset if user starts typing again
+                                                        }}
+                                                    />
+                                                    <button type="submit" className="axil-button btn-transparent">
+                                                        <span className="button-text">Subscribe</span>
+                                                        <span className="button-icon" />
+                                                    </button>
+                                                    </form>
+                                                    {showAlert && (
+                                                    <Alert
+                                                        message={
+                                                        isMessageSent
+                                                            ? "You have successfully subscribed"
+                                                            : email.trim()
+                                                            ? "Something went wrong"
+                                                            : "Input cannot be empty"
+                                                        }
+                                                        type={isMessageSent ? "success" : "danger"}
+                                                    />
+                                                    )}
+                                                </div>
                                                 </>
                                             ) : (
                                                 <>

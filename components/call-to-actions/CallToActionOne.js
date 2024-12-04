@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import SectionTitle from '../common/SectionTitle';
 
 const CallToActionOne = () => {
@@ -14,10 +15,12 @@ const CallToActionOne = () => {
                                 alignment="center"
                             />
                             <div className="text-center">
-                                <a className="axil-button btn-large btn-transparent" href="#">
+                                <Link href={'/portfolio'}>
+                                <a className="axil-button btn-large btn-transparent">
                                     <span className="button-text">Estimate Project</span>
                                     <span className="button-icon"/>
                                 </a>
+                                </Link>
                                 <div className="callto-action">
                                     <span className="text">
                                       Or call us now
