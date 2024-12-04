@@ -7,7 +7,7 @@ const ErrorPage = () => {
     return (
         <Layout showFooter={false}>
             <Head>
-                <title>404 || Keystroke Creative Agency Bootstrap 5 Template</title>
+                <title>404</title>
             </Head>
 
             <main className="page-wrapper page-error">

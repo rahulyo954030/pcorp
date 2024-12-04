@@ -16,7 +16,7 @@ const Testimonial = () => {
     return (
         <Layout>
             <Head>
-                <title>Customer Reviews || keystroke Creative Agency Bootstrap5 Template</title>
+                <title>Customer Reviews</title>
             </Head>
 
             <Breadcrumb title="Customer Reviews" current="Customer Reviews"/>

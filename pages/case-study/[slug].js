@@ -42,14 +42,14 @@ const CaseStudyDetails = ({caseStudy}) => {
         <Layout>
             <Head>
                 <title>
-                    Case Study Details || Keystroke Creative Agency Bootstrap 5 Template
+                    Case Study Details
                 </title>
             </Head>
 
             <main className="page-wrapper">
                 <BannerSix
                     title={caseStudy.title}
-                    subtitle="A quick view of industry specific problems solved with design by the awesome team at Keystroke."
+                    subtitle="A quick view of industry specific problems solved with design by the awesome team at Pragra."
                     bannerStyleClass="axil-breadcrumb-area breadcrumb-style-2 single-service pt--170 pb--70 theme-gradient"
                     bannerTitleClass="title"
                     leftColumn="col-lg-6 order-2 order-lg-1 mt_md--30 mt_sm--20"

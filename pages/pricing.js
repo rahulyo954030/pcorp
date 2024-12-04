@@ -10,7 +10,7 @@ const Pricing = () => {
   return (
     <Layout>
       <Head>
-        <title>Pricing || Keystroke Creative Agency Bootstrap 5 Template</title>
+        <title>Pricing</title>
       </Head>
 
       <Breadcrumb title="Pricing" current="Pricing" />

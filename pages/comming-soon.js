@@ -9,7 +9,7 @@ const CommingSoon = () => {
     return (
         <>
             <Head>
-                <title>Comming Soon || Keystroke Creative Agency Bootstrap 5 Template</title>
+                <title>Comming Soon</title>
             </Head>
 
             <ThemeSwitcher/>

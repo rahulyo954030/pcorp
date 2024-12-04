@@ -20,7 +20,7 @@ const HomeOne = ({posts}) => {
     return (
         <Layout>
             <Head>
-                <title>Home || keystroke Creative Agency Bootstrap5 Template</title>
+                <title>Home</title>
             </Head>
 
             <main className="page-wrapper">
