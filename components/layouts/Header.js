@@ -130,7 +130,7 @@ const Header = ({headerSetting = {}}) => {
                                     )}
 
                                     <div className="axil-header-extra d-flex align-items-center">
-                                        {(headerSettings.style !== "three" && headerSettings.style !== "four") && (
+                                        {/* {(headerSettings.style !== "three" && headerSettings.style !== "four") && (
                                             <div className="ax-search-area ml--40 ml_sm--10">
                                                 <button
                                                     className="p-0 border-0 search-trigger"
@@ -139,9 +139,9 @@ const Header = ({headerSetting = {}}) => {
                                                     <i className="fas fa-search"></i>
                                                 </button>
                                             </div>
-                                        )}
+                                        )} */}
 
-                                        {(headerSettings.style !== "three" && headerSettings.style !== "four") && (
+                                        {/* {(headerSettings.style !== "three" && headerSettings.style !== "four") && (
                                             <div className="ax-hamburger ml--40 ml_sm--10 d-none d-lg-block">
                                                 <button
                                                     className="axil-menuToggle ax-hamburger-trigger"
@@ -152,7 +152,7 @@ const Header = ({headerSetting = {}}) => {
                                                     <span/>
                                                 </button>
                                             </div>
-                                        )}
+                                        )} */}
 
                                         {headerSettings.style === "three" && (
                                             <div className="d-none d-md-block">

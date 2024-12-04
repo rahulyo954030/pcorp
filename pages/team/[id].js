@@ -57,7 +57,7 @@ const TeamDetails = ({teamData}) => {
                                     <div className="inner">
                                         <h1 className="title">{teamData.name}</h1>
                                         <span className="subtitle">{teamData.designation}</span>
-                                        <ul className="social-share d-flex justify-content-start liststyle flex-wrap">
+                                        {/* <ul className="social-share d-flex justify-content-start liststyle flex-wrap">
                                             {teamData.socials?.map((social, index) => (
                                                 <li key={`social-${index}`}>
                                                     <a href={social.url}>
@@ -67,7 +67,7 @@ const TeamDetails = ({teamData}) => {
                                                     </a>
                                                 </li>
                                             ))}
-                                        </ul>
+                                        </ul> */}
                                         <p className="subtitle-2">{teamData.introduction}</p>
                                     </div>
                                 </div>

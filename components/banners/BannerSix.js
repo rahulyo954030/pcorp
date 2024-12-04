@@ -49,7 +49,7 @@ const BannerSix = (
                                             height={363}
                                             className="paralax-image"
                                             src={bannerImageTwo}
-                                            alt="pragra Images"
+                                            alt=""
                                         />
                                     </Tilt>
                                 </div>
@@ -85,7 +85,7 @@ const BannerSix = (
                                                 height={321}
                                                 className="image-2 paralax-image"
                                                 src="/"
-                                                alt="Slider images"
+                                                alt=""
                                                 layout="fixed"
                                             />
                                         </Tilt>

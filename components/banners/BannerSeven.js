@@ -37,7 +37,7 @@ const BannerSeven = (
                                         height={395}
                                         className="image-2 paralax-image"
                                         src={thumbnailImageTwo}
-                                        alt="Slider images"
+                                        alt=""
                                     />
                                 </Tilt>
                             </div>
