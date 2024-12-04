@@ -49,8 +49,9 @@ const SliderOne = () => {
                                             />
                                         </div>
                                     </div>
-                                    <div className="col-lg-6 col-xl-5 col-md-12 col-12 offset-xl-1 mt_md--40 mt_sm--40">
+                                    <div className="col-lg-6 col-xl-5 col-md-12 col-12 offset-xl-1 mt_md--40 mt_sm--40 d-flex align-items-center">
                                         <div className="inner">
+                                            <div>
                                             <div className="section-title text-start">
                                                 <span className="sub-title extra04-color">
                                                   {item.subtitle}
@@ -68,7 +69,8 @@ const SliderOne = () => {
                                                     </a>
                                                 </Link>
                                             </div>
-                                            <div
+                                            </div>
+                                            {/* <div
                                                 className="axil-counterup-area d-flex flex-wrap separator-line-vertical">
                                                 {item.counter?.map((counter, counterIndex) => {
                                                     return (
@@ -92,7 +94,7 @@ const SliderOne = () => {
                                                         </div>
                                                     );
                                                 })}
-                                            </div>
+                                            </div> */}
                                         </div>
                                     </div>
                                 </div>

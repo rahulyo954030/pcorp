@@ -21,7 +21,7 @@ const PrivacyPolicy = () => {
                                         <div className="section-title">
                                             <h4 className="title">
                                                 This Privacy policy was published on April 26th&sbquo;
-                                                2018.
+                                                2024.
                                             </h4>
                                         </div>
                                         <h3>GDPR compliance</h3>

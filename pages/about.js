@@ -10,6 +10,7 @@ import WorkingProcess from '../components/services/WorkingProcess';
 import TeamOne from '../components/teams/TeamOne';
 import CaseStudyData from '../data/CaseStudies.json';
 import {slugify} from '../helpers/utilities';
+import CallToActionOne from '../components/call-to-actions/CallToActionOne';
 
 const About = () => {
     const [ref, inView] = useInView({
@@ -112,7 +113,7 @@ const About = () => {
                                         </p>
                                         <Link href={`/case-study/${slugify(CaseStudyData[0].title)}`}>
                                             <a className="axil-button btn-large btn-transparent">
-                                                <span className="button-text">Read Case Study</span>
+                                                <span className="button-text">View our services</span>
                                                 <span className="button-icon"/>
                                             </a>
                                         </Link>
@@ -127,7 +128,7 @@ const About = () => {
 
                                         <div className="single-counterup counterup-style-1">
                                             <h3 className="count counter-k">
-                                                <CountUp start={0} end={inView ? "60" : 0}/>
+                                                <CountUp start={0} end={inView ? "6" : 0}/>
                                             </h3>
                                             <p>Tech talents</p>
                                         </div>
@@ -143,6 +144,8 @@ const About = () => {
                 <TeamOne/>
 
                 <WorkingProcess process={workingProcess}/>
+
+                <CallToActionOne/>
             </main>
         </Layout>
     );

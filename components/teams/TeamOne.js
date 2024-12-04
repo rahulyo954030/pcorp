@@ -37,9 +37,15 @@ const TeamOne = () => {
                                     alignment="left"
                                 />
                                 <div className="axil-button-group mt--40">
-                                    <Link href="/team">
+                                    {/* <Link href="/team">
                                         <a className="axil-button btn-large btn-transparent">
                                             <span className="button-text">Our Team</span>
+                                            <span className="button-icon"></span>
+                                        </a>
+                                    </Link> */}
+                                    <Link href="/contact">
+                                        <a className="axil-button btn-large btn-transparent">
+                                            <span className="button-text">Contact Us</span>
                                             <span className="button-icon"></span>
                                         </a>
                                     </Link>
