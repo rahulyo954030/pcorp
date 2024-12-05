@@ -125,7 +125,7 @@ const Contact = () => {
                                     <div className="content">
                                         <h4 className="title">Illinois</h4>
                                         <p>
-                                        180 Talmadge Rd Edison New Jersey 08817<br/> United States 
+                                        180 Talmadge Rd Edison New Jersey 08817, USA
                                         </p>
                                         <a className="axil-button btn-transparent" href="https://maps.app.goo.gl/KAmE1ieaxoddzKnW8">
                                             <span className="button-text">View on Map</span>
