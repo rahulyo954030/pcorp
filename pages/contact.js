@@ -125,7 +125,7 @@ const Contact = () => {
                                     <div className="content">
                                         <h4 className="title">Illinois</h4>
                                         <p>
-                                        935 N Plum Grove Rd STE D, Schaumburg, Illinois <br/> United States 60173
+                                        180 Talmadge Rd Edison New Jersey 08817<br/> United States 
                                         </p>
                                         <a className="axil-button btn-transparent" href="https://www.google.com/maps/search/?api=1&query=42.04614134631992,-88.05670664671698">
                                             <span className="button-text">View on Map</span>
