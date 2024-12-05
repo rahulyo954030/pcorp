@@ -70,7 +70,7 @@ const Contact = () => {
                                                 <p>
                                                     <a
                                                         className="axil-link"
-                                                        href="mailto:pragracorp@gmail.com"
+                                                        href="mailto:info@pragracorp.com"
                                                     >
                                                         info@pragracorp.com
                                                     </a>
