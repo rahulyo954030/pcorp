@@ -44,7 +44,7 @@ const Contact = () => {
                                                     6:00 pm
                                                 </p>
                                                 <p>
-                                                    <a className="axil-link" href="tel:1234567890">
+                                                    <a className="axil-link" href="tel:+1 (905) 407-5009">
                                                         +1 (905) 407-5009
                                                     </a>
                                                 </p>
