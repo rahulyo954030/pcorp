@@ -123,7 +123,7 @@ const Contact = () => {
                                         />
                                     </div>
                                     <div className="content">
-                                        <h4 className="title">Illinois</h4>
+                                        <h4 className="title">New Jersey</h4>
                                         <p>
                                         180 Talmadge Rd Edison New Jersey 08817, USA
                                         </p>
