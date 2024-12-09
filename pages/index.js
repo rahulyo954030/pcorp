@@ -40,7 +40,7 @@ const HomeOne = ({ posts }) => {
 
         <TeamOne />
 
-        <PricingOne />
+        {/* <PricingOne /> */}
 
         <BrandOne />
 
